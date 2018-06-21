@@ -1,2 +1,2 @@
 # SVM
-predictions of breast cancer
+predictions of breast cancer using sklearn predefined dataset 
